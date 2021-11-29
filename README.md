@@ -1,11 +1,11 @@
-# 👨🏽‍💻 Sobre mim
+#👨🏽‍💻 Sobre mim
 
 👦 Meu nome é Vinicius, tenho 22 anos.<br />
 🎓 Sou Graduado e Pós Graduado pela Faculdade Alfa de Umuarama.<br />
 🚀Atualmente estudando na [Rocketseat](https://rocketseat.com.br/). <br />
 💪🏾Focado nas tecnologias: Nodejs, ReactJS, React Native e TypeScript.
 
-# 🤹🏼 Hobby
+#🤹🏼 Hobby
 🎮 Jogar.<br />
 🎼 Escutar Musica.<br />
 🎬 Assitir Filmes, Series e Animes.<br/>
