@@ -8,7 +8,7 @@
 # 🤹🏼 Hobby
 🎮 Jogar.<br />
 🎼 Escutar Musica.<br />
-🎬 Assitir Filmes, Series ou Animes.<br/>
+🎬 Assitir Filmes, Series e Animes.<br/>
 ⚽️ Caminhar | Praticar Esportes.<br/>
  
 
